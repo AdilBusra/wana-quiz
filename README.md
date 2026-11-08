@@ -1,17 +1,21 @@
-# wanaquiz
+# WanaQ - Aplikasi Kuis Alam & Kehutanan Indonesia
 
-A new Flutter project.
+## A. Identitas Mahasiswa
+* **Nama:** Muhammad Adil Busra
+* **NIM:** 24140107
+* **Lab:** Laboratorium Pemograman Mobile 5
 
-## Getting Started
+## B. Informasi Aplikasi
+* **Nama Aplikasi:** WanaQ
+* **Deskripsi Singkat:** Aplikasi kuis pilihan ganda berbasis Flutter yang dirancang untuk menguji wawasan seputar flora-fauna endemik, kawasan konservasi, serta ilmu kehutanan dan ekosistem di Indonesia.
+* **Fitur-fitur Unggulan:**
+  1. Navigasi halaman bersih menggunakan `GoRouter`.
+  2. State management reaktif menggunakan `Provider` (progres aman saat rotasi layar).
+  3. Timer interaktif dengan fitur *pause/resume* saat tombol kembali ditekan.
+  4. Dukungan *Dark & Light Mode* (Dual-theme).
+  5. 70+ soal latihan tematik seputar kehutanan nusantara.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## C. Dokumentasi & Kredit
+* **Aset:** Logo aplikasi dikustomisasi menggunakan `flutter_launcher_icons`.
+* **Font:** Menggunakan *custom font* via `google_fonts`.
+* **Screenshot & Mockup:** (Lampirkan screenshot halaman aplikasi Home, Quiz, dan Result di sini).
