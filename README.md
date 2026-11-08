@@ -23,26 +23,26 @@
 
 **Dark Theme**
 <p align="center">
-  <img src="assets/screenshots/ss (16).jpg" width="45%" />
-  <img src="assets/screenshots/ss (15).jpg" width="45%" />
-  <img src="assets/screenshots/ss (17).jpg" width="45%" />
-  <img src="assets/screenshots/ss (1).jpg" width="45%" />
-  <img src="assets/screenshots/ss (2).jpg" width="45%" />
-  <img src="assets/screenshots/ss (18).jpg" width="45%" />
-  <img src="assets/screenshots/ss (3).jpg" width="45%" />
-  <img src="assets/screenshots/ss (4).jpg" width="45%" />
-  <img src="assets/screenshots/ss (14).jpg" width="45%" />
+  <img src="assets/screenshots/ss (16).jpg" width="25%" />
+  <img src="assets/screenshots/ss (15).jpg" width="25%" />
+  <img src="assets/screenshots/ss (17).jpg" width="25%" />
+  <img src="assets/screenshots/ss (1).jpg" width="25%" />
+  <img src="assets/screenshots/ss (2).jpg" width="25%" />
+  <img src="assets/screenshots/ss (18).jpg" width="25%" />
+  <img src="assets/screenshots/ss (3).jpg" width="25%" />
+  <img src="assets/screenshots/ss (4).jpg" width="25%" />
+  <img src="assets/screenshots/ss (14).jpg" width="25%" />
 </p>
 
 **Light Theme**
 <p align="center">
-  <img src="assets/screenshots/ss (6).jpg" width="45%" />
-  <img src="assets/screenshots/ss (5).jpg" width="45%" />
-  <img src="assets/screenshots/ss (7).jpg" width="45%" />
-  <img src="assets/screenshots/ss (10).jpg" width="45%" />
-  <img src="assets/screenshots/ss (9).jpg" width="45%" />
-  <img src="assets/screenshots/ss (8).jpg" width="45%" />
-  <img src="assets/screenshots/ss (11).jpg" width="45%" />
-  <img src="assets/screenshots/ss (12).jpg" width="45%" />
-  <img src="assets/screenshots/ss (13).jpg" width="45%" />
+  <img src="assets/screenshots/ss (6).jpg" width="25%" />
+  <img src="assets/screenshots/ss (5).jpg" width="25%" />
+  <img src="assets/screenshots/ss (7).jpg" width="25%" />
+  <img src="assets/screenshots/ss (10).jpg" width="25%" />
+  <img src="assets/screenshots/ss (9).jpg" width="25%" />
+  <img src="assets/screenshots/ss (8).jpg" width="25%" />
+  <img src="assets/screenshots/ss (11).jpg" width="25%" />
+  <img src="assets/screenshots/ss (12).jpg" width="25%" />
+  <img src="assets/screenshots/ss (13).jpg" width="25%" />
 </p>
