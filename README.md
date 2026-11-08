@@ -7,16 +7,13 @@
 
 ## B. Informasi Aplikasi
 * **Nama Aplikasi:** WanaQ
-* **Deskripsi Singkat:** WanaQ adalah aplikasi kuis pilihan ganda interaktif berbasis Flutter yang dirancang khusus untuk menguji dan memperkaya wawasan pengguna seputar alam, flora-fauna endemik nusantara, kawasan konservasi, serta ilmu kehutanan di Indonesia. Dilengkapi dengan antarmuka yang bersih, fitur timer interaktif dengan sistem pause/resume, dukungan Dual-Theme (Light & Dark Mode), serta manajemen state reaktif menggunakan `Provider` dan navigasi modern `GoRouter`.
+* **Deskripsi Singkat:** Aplikasi kuis pilihan ganda berbasis Flutter yang dirancang untuk menguji wawasan seputar flora-fauna endemik, kawasan konservasi, serta ilmu kehutanan dan ekosistem di Indonesia.
 * **Fitur-fitur Unggulan:**
-  1. Input Nama & Kustomisasi Sisa Soal (pilihan 5, 10, 20, atau 50 soal).
-  2. Bank Soal Tematik Kehutanan.
-  3. Pengacakan Soal & Opsi Otomatis.
-  4. Timer Interaktif & Fitur Pause/Resume.
-  5. Umpan Balik Visual Reaktif.
-  6. Halaman Hasil & Riwayat Kuis (Result & History).
-  7. Dukungan Dual-Theme (Light & Dark Mode).
-  8. Navigasi Bersih & Reusable Widget.
+  1. Navigasi halaman bersih menggunakan `GoRouter`.
+  2. State management reaktif menggunakan `Provider` (progres aman saat rotasi layar).
+  3. Timer interaktif dengan fitur *pause/resume* saat tombol kembali ditekan.
+  4. Dukungan *Dark & Light Mode* (Dual-theme).
+  5. 70+ soal latihan tematik seputar kehutanan nusantara.
 
 ## C. Dokumentasi & Kredit
 * **Aset:** Logo aplikasi dikustomisasi menggunakan `flutter_launcher_icons`.
