@@ -16,7 +16,7 @@ class ResultScreen extends StatelessWidget {
 
     return Scaffold(
       body: SafeArea(
-        child: Padding(
+        child: SingleChildScrollView(
           padding: const EdgeInsets.all(24.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -103,7 +103,8 @@ class ResultScreen extends StatelessWidget {
               const SizedBox(height: 30),
 
               // --- BAGIAN TAB: KUNCI JAWABAN & RIWAYAT ---
-              Expanded(
+              SizedBox(
+                height: 350, // Atur tinggi sesuai kebutuhan
                 child: DefaultTabController(
                   length: 2,
                   child: Column(
